@@ -33,7 +33,7 @@
     "browserify-shim": "^3.8.10",
     "del": "^2.0.2",
     "git-changelog": "^0.1.8",
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.3",
     "grunt-browserify": "^4.0.1",
     "grunt-karma": "^0.12.2",
     "gulp": "^3.9.0",
